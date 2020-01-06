@@ -2,7 +2,7 @@
 
 Simple Python Search Spider, Page Ranker, and Visualizer.
 
-[![license](https://img.shields.io/github/license/nhnent/tui.editor.svg)]
+[![license](https://img.shields.io/github/license/nhnent/tui.editor.svg)](https://github.com/Sahaj21/Page-Rank/blob/master/README.md)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 This is a set of programs that emulate some of the functions of a 
